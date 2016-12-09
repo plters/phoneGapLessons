@@ -1,0 +1,14 @@
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1481258954248">
+  <folder name="css">
+    <file name="site_global.css" crc="475048684"/>
+    <file name="index.css" crc="3892499363" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index"/>
+    <file name="museutils.js" crc="212726984" ref="index"/>
+    <file name="webpro.js" crc="114405901" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4130026270" ref="index"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="index"/>
+  </folder>
+  <file name="index.html" crc="263721282" mt="1481258884790" redirect="true"/>
+</manifest>
